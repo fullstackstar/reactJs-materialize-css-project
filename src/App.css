@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
+.font{
+  font-family: 'Inconsolata', monospace;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+nav ul{
+  display: flex;
+  justify-content: space-between;
+}
+
+p{
+  margin: 0
+}
+
+.float-right{
+  float: right;
+}
+
+.collection-item.inverted{
+  background-color: #666666;
+  color: white;
+}
+
+.color-red{
+  color: #ee0000
+}
+
+.collection.separated{
+  border: none;
+}
+.collection.separated li{
+  border: 1px solid #61dafb !important;
+  margin-bottom: 8px;
+  border-radius: 4px;
+}
+
+.collection.separated li:hover{
+  cursor: pointer;
+  border: 1px solid #30a8b9 !important;
+  background-color: whitesmoke;
+}
+
+.sidenav.open{
+  transform: translateX(0%);
+}
+
+.sidenav-overlay.open{
+  display: block!important;
+  opacity: 1!important;
+}
+
+.ml-10{
+  margin-left: 10px;
+}
+
+.mr-10{
+  margin-left: 10px;
+}
+
+.pb-0{
+  padding-bottom: 0px!important;
+}
+
+.mb-10{
+  margin-bottom: 10px;
+}
+.pb1{
+  padding: 0px .75rem!important;
+  border-bottom: 0px solid #e0e0e0!important;
+}
+.bb-0{
+  border-bottom: 0px solid #e0e0e0!important;
+  line-height: 1rem!important;
+}
+.f-13{
+  font-size: 13px;
+}
+.mt{
+  position: absolute;
+  margin-top: 454px;
+  text-align: center!important;
+}
