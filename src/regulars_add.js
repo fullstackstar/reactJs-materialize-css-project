@@ -8,7 +8,7 @@ export default function RegularsAdd() {
                 <nav>
                     <ul>
                         <li><Link to={'/regulars'} className="sidenav-trigger" style={{display: 'block'}}><i className="material-icons">chevron_left</i></Link></li>
-                        <li>SportsJumpers</li>
+                        <li>Yoga</li>
                         <li></li>
                     </ul>
                 </nav>

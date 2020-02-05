@@ -7,7 +7,7 @@ export default function DisplayName() {
                 <nav>
                     <ul>
                         <li></li>
-                        <li>SportsJumpers</li>
+                        <li>Yoga</li>
                         <li></li>
                     </ul>
                 </nav>
