@@ -33,7 +33,6 @@ export default function DisplayName() {
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
     )
