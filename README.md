@@ -1,6 +1,15 @@
-##Overview
+#React JS + Materialize Css project
+## What is the use of this Repo
+This Project is a ReactJS Project which demonstrates the following
+
+1. Creating a Component in React.js
+2. Communicating between parent and child component
+3. Using materialize-css
+4. Using Basic Routing in React
+
+The project Template can be used to build bigger projects
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br />
-This project is using material design.
 ## Demo
 https://relaxed-northcutt-d6363d.netlify.com
 
