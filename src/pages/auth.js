@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Header from './elements/header';
+import Header from '../components/header';
 import InputMask from "react-input-mask";
 
 export default class Auth extends Component {

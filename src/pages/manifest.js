@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import './App.css';
-import Header from './elements/header';
+import '../App.css';
+import Header from '../components/header';
 import M from 'materialize-css';
 
 export default class Manifest extends Component {

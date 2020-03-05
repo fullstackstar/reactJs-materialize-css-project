@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Header from './elements/header'
+import Header from '../components/header'
 
 export default class Products extends Component {
     render(){

@@ -6,15 +6,15 @@ import {
     Switch,
     Route,
 } from "react-router-dom";
-import Regulars from './regulars';
-import RegularsAdd from './regulars_add';
-import Reports from './reports';
-import Products from './products';
-import DisplayName from './display-name';
-import Transactions from './transactions';
-import Auth from './auth';
-import Manifest from './manifest';
-import ProductManifestReport from './product-manifest-reports';
+import Regulars from './pages/regulars';
+import RegularsAdd from './pages/regulars_add';
+import Reports from './pages/reports';
+import Products from './pages/products';
+import DisplayName from './pages/display-name';
+import Transactions from './pages/transactions';
+import Auth from './pages/auth';
+import Manifest from './pages/manifest';
+import ProductManifestReport from './pages/product-manifest-reports';
 
 function App() {
     return (
